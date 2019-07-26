@@ -1,0 +1,15 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-image: url(../img/iback.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.center-objects {
+    text-align: center;
+    color: black;
+}
