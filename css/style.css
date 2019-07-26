@@ -20,4 +20,10 @@ body {
     list-style: none;
 }
 
-.ul li a {}
+.ul li a {
+
+}
+*{
+    margin: 0%
+    padding: 0%
+}
