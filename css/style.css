@@ -16,3 +16,8 @@ body {
 .row{
     padding-top: 20px;
 }
+h4 {
+    color: blue;
+    text-align: center;
+    display: inline;
+}
