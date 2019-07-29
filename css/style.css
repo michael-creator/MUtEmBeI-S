@@ -17,12 +17,15 @@ body {
     padding-top: 20px;
 }
 h4 {
-    color: blue;
+    color: white;
     text-align: center;
     display: inline;
 }
 h5 {
-    color: purple;
+    color: white;
     text-align: center;
     display: inline;
+}
+ul {
+    color : white;
 }
