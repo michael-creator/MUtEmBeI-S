@@ -50,16 +50,29 @@ table, th, td {
     border: 1px solid white;
     color: white;
   }
-  tr {
+  /* tr {
       display: none;
       border-top: 20 px solid white;
   }
   #cart-container {
       margin: 50px;
       margin-left: 10px;
-  }
-  #myCart {
-      border-collapse: collapse;
+  
 
   }
-  #
+  #myCart tr td,th{
+      padding: 10px;
+      width: 200px;
+position: relative;
+  }
+  #myCart {
+      background-color: black;
+      color: white;
+
+  }
+  #myCart tr,td {
+    text-align: center;
+  } */
+  #cart-container{
+      /* display:none; */
+  }
