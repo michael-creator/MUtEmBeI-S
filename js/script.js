@@ -6,6 +6,10 @@ $(document).ready(function(){
         event.preventDefault();
         
         var quantity =$(".qty").val()
-        alert("text")
+        alert(quantity)
     })
 });
+$("#card-img").submit(function(){
+<input type="button" onclick="alert('Hello World!')" value="Click Me!"></input>
+    
+)}
