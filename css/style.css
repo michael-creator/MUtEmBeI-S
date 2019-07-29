@@ -33,12 +33,33 @@ ul {
     color: white;
     text-align: center
 }
-.container { 
+/* .container { 
     display: inline-block;
     padding: 20px;
-    border: 1px;
+    border: 1px solid black;
     text-align: center;
-    margin-bottom: 
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 200px;
 
-
+} */
+.Qty {
+    width: 50px;
 }
+table, th, td {
+    border: 1px solid white;
+    color: white;
+  }
+  tr {
+      display: none;
+      border-top: 20 px solid white;
+  }
+  #cart-container {
+      margin: 50px;
+      margin-left: 10px;
+  }
+  #myCart {
+      border-collapse: collapse;
+
+  }
+  #
