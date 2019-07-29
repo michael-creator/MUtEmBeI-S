@@ -1,8 +1,8 @@
-# delani
-#### This app is new in town and is going to help alot of people who are looking for quality and high results, also simplifiers the users work 10 times by having new tech en cool softwares in the same app, 23-06-2019
+# MUTEMBEI`S PIZZA
+#### This app is new in town and is going to help alot of people who are looking for DELICIOUS and available pizza`s, also simplifiers the users work by having having it delivered to your door step, 23-06-2019
 #### By **michael maina, john kamau, jane ngomi, magothe phyllis**
 ## Description
-This app was
+This app was created so that people could have a meal anytime and can order pizza from the comfort of their homes. its supposed to help people reduce time wasted by making lines and movement since we simplify by delivering the pizza to the customer with little fee in it.
 ## Setup/Installation Requirements
 * creat an account with us and subscribe to our channel to get more info.
 * Download the app via the link
