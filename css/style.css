@@ -28,6 +28,8 @@ h5 {
 }
 ul {
     color : white;
+    text-align: center
+
 }
 #main-container {
     color: white;
@@ -73,6 +75,6 @@ position: relative;
   #myCart tr,td {
     text-align: center;
   } */
-  #cart-container{
+  #cart-container {
       /* display:none; */
   }
